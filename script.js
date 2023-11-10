@@ -1,7 +1,6 @@
 alert(" hello world");
 console.log("sup world");
-console.dir(document);
-document.getElementById("myHeading").innerHTML;
+
 
 function init()
 {
