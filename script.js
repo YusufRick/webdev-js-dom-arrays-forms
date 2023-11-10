@@ -2,7 +2,7 @@ alert(" hello world");
 console.log("sup world");
 
 
-function init()
+(function init()
 {
     console.info(document.getElementById("myHeading").innerHTML = "Martin");
-}
+})();
