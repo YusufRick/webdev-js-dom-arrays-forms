@@ -5,5 +5,5 @@ document.getElementById("myHeading").innerHTML;
 
 function init()
 {
-    console.info(document.getElementById("myHeading").innerHTML);
+    console.info(document.getElementById("myHeading").innerHTML = "Martin");
 }
